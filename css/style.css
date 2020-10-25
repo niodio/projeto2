@@ -5,3 +5,51 @@
     list-style: none;
     border: 0
 }
+
+body {
+    background: #d2d2c1 url(/img/fundo.png);
+    font-family: Arial, Helvetica, sans-serif serif;
+}
+
+#principal {
+    width: 900px;
+}
+
+.menu {
+    background-color: #c5c5b2;
+    padding: 18px;
+    ;
+}
+
+#conteudo {
+    background-color: #e8e8e9;
+    padding: 18px;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #4b566a;
+    padding: 5px;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.5em;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+#rodape {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #e8e8e9;
+}
